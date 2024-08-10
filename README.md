@@ -1,2 +1,2 @@
 # NNL
-This is the project we work on for climate AI project
+This is the Climate AI+Quantum project we work on during Womanium Quantum Program 2024 
