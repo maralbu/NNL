@@ -1,0 +1,2 @@
+The full data that we used can be found: https://www.kaggle.com/datasets/shreelearn/2024-climate-data-india
+For further data exploration, visit: https://cds.climate.copernicus.eu/#!/home
